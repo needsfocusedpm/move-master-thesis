@@ -2,6 +2,9 @@
 
 This repository contains the structured public version of Daniel Hendling’s Master's Thesis on needs-focused leadership in project management and the MOVE Model.
 
+This thesis is also published under the extended title:
+"Needs-Focused Leadership in Projects: The MOVE Model on Motivation, Mediation, and Trust"
+
 ## Purpose
 
 This repository provides:
