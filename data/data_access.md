@@ -1,13 +1,17 @@
 # Data Access
 
-The full dataset and survey materials are available via OSF:
+The empirical data underlying this thesis is openly available via OSF:
 
 DOI: https://doi.org/10.17605/OSF.IO/NKB4J
 
-Included files:
+Included materials:
 
-- Quantitative survey data (raw dataset)
+- Quantitative dataset (raw survey data)
 - Survey instrument (questionnaire)
 - Qualitative interview evidence (anonymized)
 
-The GitHub repository provides structured context and integration with the thesis content.
+## Notes
+
+- The dataset is provided in its original format.
+- No personally identifiable information is included.
+- The GitHub repository provides structured context and integration with the thesis content.
