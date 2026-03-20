@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "All Buttons Pushed: Needs-Focused Leadership in Projects"
+message: "If you use this thesis or repository, please cite it using the metadata below."
+type: thesis
+authors:
+  - family-names: "Hendling"
+    given-names: "Daniel"
+    orcid: "https://orcid.org/0009-0009-9708-0695"
+identifiers:
+  - type: doi
+    value: "10.17605/OSF.IO/NKB4J"
+license: "CC-BY-4.0"
