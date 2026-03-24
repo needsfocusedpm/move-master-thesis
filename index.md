@@ -62,8 +62,8 @@ These files provide visual and conceptual representations of the core models dev
 
 ### Data and Empirical Foundation
 
-- Data Overview: [data/README.md](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/README.md)
-- Data Access Information: [data/data_access.md](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/data_access.md)
+- Data Overview: [Overview of the empirical data](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/README.md)
+- Data Access Information: [How to access the dataset](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/data_access.md)
 - Survey Instrument: [data/survey_instrument.md](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/survey_instrument.md)
 
 The full dataset and original materials are available via OSF:
