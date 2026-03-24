@@ -39,6 +39,15 @@ This repository provides a structured, machine-readable, chapter-based version o
 - [16 Master Thesis Clean Core](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/16-master-thesis-clean-core.md)
 - [17 Spectrum of Needs Text Structure](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/17-spectrum-of-needs-text-structure.md)
 
+## Additional Resources
+
+### Models and Visual Assets
+
+- MOVE Model (PDF): [assets/models/move-model-en.pdf](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/assets/models/move-model-en.pdf)
+- Spectrum of Needs (PDF): [assets/models/spectrum-of-needs-en.pdf](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/assets/models/spectrum-of-needs-en.pdf)
+
+These files provide visual and conceptual representations of the core models developed in this thesis.
+
 ## Usage
 
 For AI tools:
