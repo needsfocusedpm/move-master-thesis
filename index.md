@@ -1,3 +1,9 @@
+## How to Use This Repository
+
+Start with this index file.  
+Navigate through chapters for the full thesis content.  
+Use the additional resources section for models, data, and supporting materials.
+
 # Index – MOVE Master Thesis
 
 ## Title
