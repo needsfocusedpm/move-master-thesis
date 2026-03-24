@@ -62,9 +62,9 @@ These files provide visual and conceptual representations of the core models dev
 
 ### Data and Empirical Foundation
 
-- Data Overview: [data/README.md](data/README.md)
-- Data Access Information: [data/data_access.md](data/data_access.md)
-- Survey Instrument: [data/survey_instrument.md](data/survey_instrument.md)
+- Data Overview: [data/README.md](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/README.md)
+- Data Access Information: [data/data_access.md](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/data_access.md)
+- Survey Instrument: [data/survey_instrument.md](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/data/survey_instrument.md)
 
 The full dataset and original materials are available via OSF:
 https://doi.org/10.17605/OSF.IO/NKB4J
