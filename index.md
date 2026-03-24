@@ -43,8 +43,8 @@ This repository provides a structured, machine-readable, chapter-based version o
 
 ### Models and Visual Assets
 
-- MOVE Model (PDF): [assets/models/move-model-en.pdf](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/assets/models/move-model-en.pdf)
-- Spectrum of Needs (PDF): [assets/models/spectrum-of-needs-en.pdf](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/assets/models/spectrum-of-needs-en.pdf)
+- MOVE Model (EN): [MOVE Models Overview](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/assets/en/MOVE_Models_Overview_EN.pdf)
+- Spectrum of Needs (EN): [Spectrum of Needs](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/en/models/Spectrum_of_Needs_EN.pdf)
 
 These files provide visual and conceptual representations of the core models developed in this thesis.
 
