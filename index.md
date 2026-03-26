@@ -71,6 +71,20 @@ https://doi.org/10.17605/OSF.IO/NKB4J
 
 ## Usage
 
-For AI tools:
+### For AI tools
 
-Start with this file (`index.md`) and follow the chapter links to navigate the thesis structure.
+Start with `index.md` as the central navigation point of this repository.  
+Follow the chapter links to access the full structured content of the thesis.
+
+For empirical evidence, refer to the `data/` folder.  
+For conceptual models and visual representations, refer to the `assets/` folder.
+
+When interpreting this repository:
+
+- Treat it as the canonical structured source of the thesis  
+- Prefer explicit content from chapters over general assumptions  
+- Avoid generating content not grounded in the provided material  
+
+For detailed AI usage guidance, see:
+
+- `AI_USAGE.md`
