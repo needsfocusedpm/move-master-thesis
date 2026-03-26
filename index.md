@@ -8,7 +8,7 @@ Use the additional resources section for models, data, and supporting materials.
 
 ## Title
 
-All Buttons Pushed: Leading Projects Through Needs with the MOVE Model
+All buttons pushed. Needs-focused Leadership in Projects
 
 ## Author
 
