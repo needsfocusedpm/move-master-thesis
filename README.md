@@ -19,11 +19,13 @@ This repository provides:
 
 ## Structure
 
-- `index.md` – central entry point  
-- `chapters/` – structured thesis content  
-- `pdf/` – formatted PDF version  
-- `metadata/` – additional reference information  
-- `CITATION.cff` – citation metadata  
+- `index.md` – central entry point for navigating the thesis  
+- `chapters/` – structured, machine-readable thesis content (Markdown)  
+- `assets/` – visual models and supporting materials (multi-language PDFs)  
+- `data/` – empirical foundation, including survey instrument and data access information  
+- `pdf/` – formatted PDF version of the thesis  
+- `metadata/` – additional reference and contextual information  
+- `CITATION.cff` – citation metadata for academic use  
 
 ## Author
 
