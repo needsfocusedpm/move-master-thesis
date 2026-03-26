@@ -27,23 +27,23 @@ This repository provides a structured, machine-readable, chapter-based version o
 
 ### Chapters
 
-- [01 Thesis Abstract](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/01-thesis-abstract.md)
-- [02 Context and Thesis Setup](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/02-context-and-thesis-setup.md)
-- [03 Projects and Success Framework](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/03-projects-and-success-framework.md)
-- [04 Human Needs and Emotion](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/04-human-needs-and-emotion.md)
-- [05 Motivation](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/05-motivation.md)
-- [06 Mediation and Conflict](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/06-mediation-and-conflict.md)
-- [07 AI and Needs-Focused Leadership](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/07-ai-and-needs-focused-leadership.md)
-- [08 Mindset and Skillset](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/08-mindset-and-skillset.md)
-- [09 Qualitative Research](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/09-qualitative-research.md)
-- [10 Quantitative Research](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/10-quantitative-research.md)
-- [11 MOVE Model Description](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/11-move-model-description.md)
-- [12 Side Findings and Reflections](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/12-side-findings-and-reflections.md)
-- [13 Methodological and Conceptual Limitations](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/13-methodological-and-conceptual-limitations.md)
-- [14 Directions for Future Research](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/14-directions-for-future-research.md)
-- [15 Interview Details and Citations](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/15-interview-details-citations.md)
-- [16 Master Thesis Clean Core](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/16-master-thesis-clean-core.md)
-- [17 Spectrum of Needs Text Structure](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/17-spectrum-of-needs-text-structure.md)
+- [01 Thesis Abstract](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/01-thesis-abstract.md) – Overview of the research purpose, methodology, and key findings
+- [02 Context and Thesis Setup](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/02-context-and-thesis-setup.md) – Background, research motivation, and conceptual framing
+- [03 Projects and Success Framework](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/03-projects-and-success-framework.md) – Definition of project success and influencing factors
+- [04 Human Needs and Emotion](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/04-human-needs-and-emotion.md) – The role of human needs and emotional dynamics in project environments
+- [05 Motivation](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/05-motivation.md) – Role of individual needs in motivation and performance within project teams
+- [06 Mediation and Conflict](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/06-mediation-and-conflict.md) – Conflict dynamics and mediation approaches in projects
+- [07 AI and Needs-Focused Leadership](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/07-ai-and-needs-focused-leadership.md) – Interaction between AI tools and needs-focused leadership practices
+- [08 Mindset and Skillset](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/08-mindset-and-skillset.md) – Required competencies and leadership mindset for needs-focused leadership
+- [09 Qualitative Research](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/09-qualitative-research.md) – Design, execution, and findings of qualitative interviews
+- [10 Quantitative Research](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/10-quantitative-research.md) – Survey design, data analysis, and statistical results
+- [11 MOVE Model Description](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/11-move-model-description.md)  – Full description of the MOVE leadership model
+- [12 Side Findings and Reflections](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/12-side-findings-and-reflections.md) – Additional insights beyond core hypotheses
+- [13 Methodological and Conceptual Limitations](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/13-methodological-and-conceptual-limitations.md) – Limitations of the research design and interpretation
+- [14 Directions for Future Research](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/14-directions-for-future-research.md) – Suggested areas for further investigation
+- [15 Interview Details and Citations](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/15-interview-details-citations.md) – Source material and qualitative references
+- [16 Master Thesis Clean Core](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/16-master-thesis-clean-core.md) – Condensed core version of the thesis
+- [17 Spectrum of Needs Text Structure](https://raw.githubusercontent.com/needsfocusedpm/move-master-thesis/main/chapters/17-spectrum-of-needs-text-structure.md) – Structured explanation of the needs model
 
 ## Additional Resources
 
